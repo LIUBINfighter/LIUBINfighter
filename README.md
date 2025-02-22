@@ -6,9 +6,13 @@ I am Jay Bridge, UG in SUSTech, Shenzhen.
 
 我的博客会分享一些课程资料，开发日志，生活随感以及交易笔记。欢迎来[这里](https://liubinfighter.github.io/Blog/)坐坐。
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter)](https://github.com/anuraghazra/github-readme-stats)
+23.10-24.4 @ARTINX c++/opencv developer
+24.10-25.2 @PoliAI Intern
+25.2-      @LiiiLabs Intern
 
 **Believe in the green light.**
+
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LIUBINfighter/LIUBINfighter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
