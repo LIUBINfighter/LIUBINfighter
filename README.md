@@ -10,7 +10,7 @@ I am Jay Bridge, UG in SUSTech, Shenzhen.
 
 24.10-25.2 @PoliAI Intern
 
-25.2-      @LiiiLabs Intern
+25.2-today @LiiiLabs Intern
 
 **Believe in the green light.**
 
