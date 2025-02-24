@@ -18,7 +18,7 @@ I am Jay Bridge, UG in SUSTech, Shenzhen.
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,github,python,md,aws,ubuntu,texmacs,langchain)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,js,ts,html,css,git,github,python,md,aws,ubuntu,texmacs,langchain)](https://skillicons.dev)
 
 
 
