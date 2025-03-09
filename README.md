@@ -11,11 +11,6 @@ On my blog, I share course materials, development logs, personal reflections, an
 
 Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a look.
 
-|    23.10-24.4  |  @ARTINX   |  c++/opencv developer |
-| --- | --- | --- |
-|  24.10-25.2   |   @PoliAI   | Intern |
-|  25.2-today   |  @LiiiLabs   | Intern |
-
 **Believe in the green light.**
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian,js,ts,html,css,git,github,python,md,aws,ubuntu,texmacs,langchain)](https://skillicons.dev)
@@ -24,7 +19,10 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter)](https://github.com/anuraghazra/github-readme-stats)
 
-
+|    23.10-24.4  |  @ARTINX   |  c++/opencv developer |
+| --- | --- | --- |
+|  24.10-25.2   |   @PoliAI   | Intern |
+|  25.2-today   |  @LiiiLabs   | Intern |
 
 
 
