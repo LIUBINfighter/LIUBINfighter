@@ -1,12 +1,10 @@
 ## Welcome old sport 👋
 
-I am Jay Bridge, UG in SUSTech, Shenzhen.
-
-Hi, I'm Jay Bridge! I'm currently a UG at the Southern University of Science and Technology (SUSTech).
+Hi, I am Jay Bridge, UG in SUSTech, Shenzhen.
 
 - Obsidian plugins developer.
 - Enjoy creating beautiful and modern front-end interfaces
-- Building single-page applications using TypeScript.
+- Building single-page applications.
 - Learning to build Agentic Apps with Langchain.
 
 On my blog, I share course materials, development logs, personal reflections, and trading notes. Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a look.
