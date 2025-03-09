@@ -7,7 +7,9 @@ Hi, I am Jay Bridge, UG in SUSTech, Shenzhen.
 - Building single-page applications.
 - Learning to build Agentic Apps with Langchain.
 
-On my blog, I share course materials, development logs, personal reflections, and trading notes. Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a look.
+On my blog, I share course materials, development logs, personal reflections, and trading notes. 
+
+Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a look.
 
 |    23.10-24.4  |  @ARTINX   |  c++/opencv developer |
 | --- | --- | --- |
