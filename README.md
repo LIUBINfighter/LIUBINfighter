@@ -2,11 +2,14 @@
 
 I am Jay Bridge, UG in SUSTech, Shenzhen.
 
-嗨，我是Jay Bridge！我目前是南方科技大学23级本科生<!-- ，同时也是普利智策人工智能有限公司的技术组成员-->。
+Hi, I'm Jay Bridge! I'm currently a UG at the Southern University of Science and Technology (SUSTech).
 
-我喜欢漂亮而现代的前端界面，使用TypeScript构建单页应用；我同时也在学习使用Langchain构建 Agentic Apps 。
+- Obsidian plugins developer.
+- Enjoy creating beautiful and modern front-end interfaces
+- Building single-page applications using TypeScript.
+- Learning to build Agentic Apps with Langchain.
 
-我的博客会分享一些课程资料，开发日志，生活随感以及交易笔记。欢迎来[这里](https://liubinfighter.github.io/Blog/)坐坐。
+On my blog, I share course materials, development logs, personal reflections, and trading notes. Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a look.
 
 |    23.10-24.4  |  @ARTINX   |  c++/opencv developer |
 | --- | --- | --- |
