@@ -4,7 +4,7 @@ Hi, I am Jay Bridge, UG in SUSTech, Shenzhen.
 
 ![blocks](https://github.com/user-attachments/assets/c52e32cf-b11f-4eb1-85ef-610b17bc470e) Obsidian plugins developer.
 
-![palette](https://github.com/user-attachments/assets/cf5aa5f6-271a-46e5-83f2-02f503be8d33) Enjoy creating beautiful and modern front-end interfaces
+![palette](https://github.com/user-attachments/assets/cf5aa5f6-271a-46e5-83f2-02f503be8d33) Enjoy creating beautiful and modern front-end interfaces.
 
 ![earth](https://github.com/user-attachments/assets/21076525-4c12-407c-bdfe-50ade1629478) Building single-page applications.
 
