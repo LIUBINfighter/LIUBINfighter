@@ -2,6 +2,8 @@
 
 Hi, I am Jay Bridge, UG in SUSTech, Shenzhen.
 
+## Building agents in obsidian!
+
 🧩 Obsidian plugins developer.
 
 🎨 Enjoy creating beautiful and modern front-end interfaces.
