@@ -27,7 +27,7 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 |    23.10-24.4  |  @ARTINX   |  c++/opencv developer |
 | --- | --- | --- |
 |  24.10-25.2   |   @PoliAI   | Intern |
-|  25.2-25.3   |  @LiiiLabs   | Intern |
+|  ~~25.2-25.3~~   |  ~~@LiiiLabs~~   | ~~Intern~~ |
 
 
 
