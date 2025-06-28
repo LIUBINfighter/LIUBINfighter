@@ -1,8 +1,11 @@
 ## Welcome old sport 👋
 
-Hi, I am Jay Bridge, UG in SUSTech, Shenzhen.
+Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a guitarist exploring the intersection of code, music, and personal knowledge management.
 
-I like Obsidian and guitar.
+
+
+
+
 <!--
 ## Building agents in obsidian!
 
