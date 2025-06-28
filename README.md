@@ -9,7 +9,7 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 |----------------------|-------------------------------------|-----------------------|
 | [CSV-lite](https://github.com/LIUBINfighter/csv-lite)             | csv in Obsidian                     | Live Product          |
 | [Interactive-Tabs](https://github.com/LIUBINfighter/interactive-tabs)    | Guitar Tabs in Obsidian             | Beta Testing          |
-| obsidian-dev-docs-zh | Community Docs for developers       | Maintain              |
+| [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintain              |
 
 ## Lab (R&D)
 
