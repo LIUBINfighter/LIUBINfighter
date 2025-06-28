@@ -6,7 +6,7 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 ## Workshop
 
 ｜Project |Description｜Status｜
-｜--- ｜---｜---｜
+｜---｜---｜---｜
 ｜CSV-lite｜csv in Obsidian | Released & Developing｜ 
 ｜Interactive-Tabs｜Guitar Tabs in Obsidian | Beta Testing｜
 ｜obsidian-dev-docs-zh｜Community Docs for developers |Maintain ｜
