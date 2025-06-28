@@ -3,8 +3,18 @@
 Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a guitarist exploring the intersection of code, music, and personal knowledge management.
 
 
+## Workshop
 
+｜Project |Description｜Status｜
+｜--- ｜---｜---｜
+｜CSV-lite｜csv in Obsidian | Released & Developing｜ 
+｜Interactive-Tabs｜Guitar Tabs in Obsidian | Beta Testing｜
+｜obsidian-dev-docs-zh｜Community Docs for developers |Maintain ｜
 
+## Lab
+
+- OCR for AlphaTex
+- Github issue traker in Obsidian
 
 <!--
 ## Building agents in obsidian!
