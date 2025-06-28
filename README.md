@@ -11,9 +11,9 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 | Interactive-Tabs     | Guitar Tabs in Obsidian             | Beta Testing          |
 | obsidian-dev-docs-zh | Community Docs for developers       | Maintain              |
 
-## Lab
+## Lab (R&D)
 
-- OCR for AlphaTex
+- OCR for AlphaTex (fine-tune vlm)
 - Github issue traker in Obsidian
 
 <!--
