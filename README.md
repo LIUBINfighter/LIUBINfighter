@@ -26,12 +26,15 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 🌐 Building single-page applications.
 
 ✨ Learning to build Agentic Apps with Langchain.
--->
+
 On my blog, I share course materials, development logs, personal reflections, and trading notes. 
 
 Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a look.
 
 **Believe in the green light.**
+-->
+
+I document my journey [here](https://liubinfighter.github.io/Blog/).
 
 [![My Skills](https://skillicons.dev/icons?i=obsidian,js,ts,html,css,git,github,python,md,aws,ubuntu,texmacs,langchain)](https://skillicons.dev)
 
