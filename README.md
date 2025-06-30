@@ -5,13 +5,22 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 
 ## Plugin Forge
 
+| Project                                                                 | Description                         | Status                |
+|-------------------------------------------------------------------------|-------------------------------------|-----------------------|
+| [CSV-lite](https://github.com/LIUBINfighter/csv-lite)                   | csv in Obsidian                     | Live Product ![Release](https://img.shields.io/github/v/release/LIUBINfighter/csv-lite) ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/csv-lite) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/csv-lite) |
+| [Interactive-Tabs](https://github.com/LIUBINfighter/interactive-tabs)   | Guitar Tabs in Obsidian             | Beta Testing ![Release](https://img.shields.io/github/v/release/LIUBINfighter/interactive-tabs) ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/interactive-tabs) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/interactive-tabs) |
+| [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Active Development <!--![Release](https://img.shields.io/github/v/release/LIUBINfighter/Github-Projects)--> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects) |
+| [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintain <!--![Release](https://img.shields.io/github/v/release/LIUBINfighter/obsidian-dev-docs-zh)--> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh) |
 
+<!--
 | Project                                                                 | Description                         | Status                |
 |-------------------------------------------------------------------------|-------------------------------------|-----------------------|
 | [CSV-lite](https://github.com/LIUBINfighter/csv-lite)                   | csv in Obsidian                     | Live Product ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/csv-lite) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/csv-lite) |
 | [Interactive-Tabs](https://github.com/LIUBINfighter/interactive-tabs)   | Guitar Tabs in Obsidian             | Beta Testing ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/interactive-tabs) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/interactive-tabs) |
 | [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintain ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh) |
 | [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Active Development ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects) |
+-->
+
 
 ## Lab (R&D)
 
