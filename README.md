@@ -47,7 +47,7 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 I document my journey [here](https://liubinfighter.github.io/Blog/).
 
-[![My Skills](https://skillicons.dev/icons?i=obsidian,js,ts,go,vue,react,html,css,git,github,python,md,aws,ubuntu,texmacs,langchain)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian,git,github,js,ts,go,vue,react,html,css,python,md,aws,ubuntu,langchain)](https://skillicons.dev)
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter)](https://github.com/anuraghazra/github-readme-stats)
 
