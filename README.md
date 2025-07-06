@@ -47,7 +47,7 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 I document my journey [here](https://liubinfighter.github.io/Blog/).
 
-[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,github,ubuntu,git)](https://skillicons.dev)
+[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws,langchain)](https://skillicons.dev)
 
