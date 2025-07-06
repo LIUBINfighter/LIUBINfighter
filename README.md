@@ -24,6 +24,7 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 
 ## Lab (R&D)
 
+- [Open-DeepWiki-go](https://github.com/LIUBINfighter/Open-DeepWiki-go)
 - OCR for AlphaTex (fine-tune vlm)
 
 <!--
