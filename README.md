@@ -51,7 +51,7 @@ I document my journey [here](https://liubinfighter.github.io/Blog/).
 
 [![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws,langchain)](https://skillicons.dev)
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter)](https://github.com/anuraghazra/github-readme-stats)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
