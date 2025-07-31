@@ -2,7 +2,6 @@
 
 Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a guitarist exploring the intersection of code, music, and personal knowledge management.
 
-
 ## Plugin Forge
 
 | Project                                                                 | Description                         | Status                |
@@ -21,11 +20,13 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 | [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Active Development ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects) |
 -->
 
-
 ## Lab (R&D)
-
-- [Open-DeepWiki-go](https://github.com/LIUBINfighter/Open-DeepWiki-go) (Under refactoring)
 - OCR for AlphaTex (fine-tune vlm)
+
+<!--
+- [Open-DeepWiki-go](https://github.com/LIUBINfighter/Open-DeepWiki-go) (Under refactoring)
+-->
+
 
 <!--
 ## Building agents in obsidian!
