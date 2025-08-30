@@ -16,7 +16,7 @@ Welcome old sport 👋
 I am Jay Bridge,  
 - An undergraduate at SUSTech,
 - An independent developer in Shenzhen,
-- An Obsidian user,
+- An Obsidian user, <!-- https://forum-zh.obsidian.md/u/jaybridge/summary https://forum.obsidian.md/u/jaybridge/summary-->
 - A guitarist,
 - Exploring the intersection of design, code, music, artificial intelligence and personal knowledge management.
 
