@@ -4,19 +4,24 @@
 
 Welcome old sport 👋
 
-Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a guitarist exploring the intersection of code, music, and personal knowledge management.
+I am Jay Bridge,  
+- An undergraduate at SUSTech.STech
+- An independent developer in Shenzhen,
+- A guitarist exploring the intersection of code, music, and personal knowledge management.
+
+I develop for fun and **otium**, build something I enjoy, and treating code as a companion in the spirit of Stoicism.
 
 ## Plugin Forge
 
 | Project                                                                 | Description                         | Status                |
 |-------------------------------------------------------------------------|-------------------------------------|-----------------------|
-| [CSV-lite](https://github.com/LIUBINfighter/csv-lite)                   | csv in Obsidian                     | Live Product <br> ![Release](https://img.shields.io/github/v/release/LIUBINfighter/csv-lite) <br> ![Obsidian Download](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=Downloads&query=$%5B%22csv-lite%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json) <!-- ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/csv-lite) --> <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/csv-lite)--> |
-| [Tab-Flow](https://github.com/LIUBINfighter/Obsidian-Tab-Flow)   | Guitar Tabs in Obsidian <br> Write tabs in text! | Beta Testing <br> ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Obsidian-Tab-Flow) <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Obsidian-Tab-Flow) <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/Obsidian-Tab-Flow)--> |
-| [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Pause <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Github-Projects)--> <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects)--> |
-| [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintain <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/obsidian-dev-docs-zh)--> <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh) <!--  ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh)--> |
+| [CSV-lite](https://github.com/LIUBINfighter/csv-lite)                   | csv in Obsidian                     | Live<br> ![Release](https://img.shields.io/github/v/release/LIUBINfighter/csv-lite) <br> ![Obsidian Download](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=Downloads&query=$%5B%22csv-lite%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json) <!-- ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/csv-lite) --> <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/csv-lite)--> |
+| [Tab-Flow](https://github.com/LIUBINfighter/Obsidian-Tab-Flow)   | Guitar Tabs in Obsidian <br> Write tabs in text! | Beta <br> ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Obsidian-Tab-Flow) <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Obsidian-Tab-Flow) <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/Obsidian-Tab-Flow)--> |
+| [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Paused <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Github-Projects)--> <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects)--> |
+| [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintained <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/obsidian-dev-docs-zh)--> <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh) <!--  ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh)--> |
 
 ## Lab (R&D)
-- OCR for AlphaTex (fine-tune vlm)
+- **OCR for AlphaTex**: Fine-tuning Visual Language Models for music notation recognition(OMR).
 
 <!--
 - [Open-DeepWiki-go](https://github.com/LIUBINfighter/Open-DeepWiki-go) (Under refactoring)
@@ -43,19 +48,22 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 ## Blog
 
-I document my journey [here](https://liubinfighter.github.io/Blog/).
+- I document my journey and personal reflections [here](https://liubinfighter.github.io/Blog/).
+
+## Stats & Stack
 
 <h6 align="center">
 
 [![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)<br><br>[![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws)](https://skillicons.dev)
-
 </h6>
 
 <h6 align="center">
 
+<!-- ![Dev Creed](https://img.shields.io/badge/Creed-PerAsperaAdAstra-005f73?style=flat-square&logo=starship) -->
+
+<br>
+
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </h6>
 
 
