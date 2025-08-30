@@ -23,6 +23,8 @@ I develop for fun and **otium**, build something I enjoy, and treating code as a
 
 ![Dev Creed](https://img.shields.io/badge/Otium-Productive_Leisure_for_the_Mind-005f73?style=flat-square&logo=starship) 
 
+<!--badge reference: shields.io-->
+
 ## Plugin Forge
 
 | Project                                                                 | Description                         | Status                |
