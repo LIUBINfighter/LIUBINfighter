@@ -1,3 +1,7 @@
+<h1 align="center">
+  <samp>Per aspera ad astra!</samp>
+</h1>
+
 ## Welcome old sport 👋
 
 Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a guitarist exploring the intersection of code, music, and personal knowledge management.
@@ -10,15 +14,6 @@ Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a 
 | [Tab-Flow](https://github.com/LIUBINfighter/Obsidian-Tab-Flow)   | Guitar Tabs in Obsidian <br> Write tabs in text! | Beta Testing <br> ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Obsidian-Tab-Flow) <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Obsidian-Tab-Flow) <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/Obsidian-Tab-Flow)--> |
 | [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Pause <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Github-Projects)--> <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) <!--![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects)--> |
 | [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintain <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/obsidian-dev-docs-zh)--> <br> ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh) <!--  ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh)--> |
-
-<!--
-| Project                                                                 | Description                         | Status                |
-|-------------------------------------------------------------------------|-------------------------------------|-----------------------|
-| [CSV-lite](https://github.com/LIUBINfighter/csv-lite)                   | csv in Obsidian                     | Live Product ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/csv-lite) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/csv-lite) |
-| [Interactive-Tabs](https://github.com/LIUBINfighter/interactive-tabs)   | Guitar Tabs in Obsidian             | Beta Testing ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/interactive-tabs) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/interactive-tabs) |
-| [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintain ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh) |
-| [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Active Development ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects) |
--->
 
 ## Lab (R&D)
 - OCR for AlphaTex (fine-tune vlm)
@@ -48,11 +43,19 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 I document my journey [here](https://liubinfighter.github.io/Blog/).
 
-[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)
+<h6 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws,langchain)](https://skillicons.dev)
+[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)<br><br>[![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws)](https://skillicons.dev)
+
+</h6>
+
+<h6 align="center">
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</h6>
+
 
 
 <!--
@@ -77,3 +80,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
