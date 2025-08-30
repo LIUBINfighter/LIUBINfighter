@@ -5,7 +5,7 @@
 Welcome old sport 👋
 
 I am Jay Bridge,  
-- An undergraduate at SUSTech.STech
+- An undergraduate at SUSTech,
 - An independent developer in Shenzhen,
 - A guitarist exploring the intersection of code, music, and personal knowledge management.
 
@@ -22,6 +22,7 @@ I develop for fun and **otium**, build something I enjoy, and treating code as a
 
 ## Lab (R&D)
 - **OCR for AlphaTex**: Fine-tuning Visual Language Models for music notation recognition(OMR).
+- **MyGO agents**: Rewrite awesome ai agents in golang to make it run locally and faster! Paused(to learn and do research).
 
 <!--
 - [Open-DeepWiki-go](https://github.com/LIUBINfighter/Open-DeepWiki-go) (Under refactoring)
