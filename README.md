@@ -111,11 +111,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">
-  <samp>Believe in the green light.</samp>
-</h1>
-
 <h3 align="center">
   <samp>
     全てを賭けて描く
@@ -133,3 +128,7 @@ Here are some ideas to get you started:
     もう今はあの日の透明な僕じゃない
   </samp>
 </h4>
+
+<h1 align="center">
+  <samp>Believe in the green light.</samp>
+</h1>
