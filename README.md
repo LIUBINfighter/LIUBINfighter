@@ -2,6 +2,14 @@
   <samp>Per aspera ad astra!</samp>
 </h1>
 
+<h2 align="center">
+  <samp>
+    如今我已不再感到迷茫
+    <br>
+    我要我的生命得到解放
+  </samp>
+</h1>
+
 Welcome old sport 👋
 
 I am Jay Bridge,  
@@ -97,4 +105,22 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <samp>Believe in the green light.</samp>
+</h1>
+
+<h2 align="center">
+  <samp>
+    全てを賭けて描く
+    <br>
+    自分にしか出せない色で
+    <br>
+    朝も夜も走り続け
+    <br>
+    見つけ出した青い光
+    <br>
+    好きなものと向き合うこと
+    <br>
+    今だって怖いことだけど
+    <br>
+    もう今はあの日の透明な僕じゃない
+  </samp>
 </h1>
