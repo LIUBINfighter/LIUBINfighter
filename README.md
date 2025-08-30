@@ -41,6 +41,8 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 **Believe in the green light.**
 -->
 
+## Blog
+
 I document my journey [here](https://liubinfighter.github.io/Blog/).
 
 <h6 align="center">
