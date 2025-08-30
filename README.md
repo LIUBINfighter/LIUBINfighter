@@ -7,7 +7,9 @@ Welcome old sport 👋
 I am Jay Bridge,  
 - An undergraduate at SUSTech,
 - An independent developer in Shenzhen,
-- A guitarist exploring the intersection of code, music, and personal knowledge management.
+- An Obsidian user,
+- A guitarist,
+- Exploring the intersection of design, code, music, artificial intelligence and personal knowledge management.
 
 I develop for fun and **otium**, build something I enjoy, and treating code as a companion in the spirit of Stoicism.
 
