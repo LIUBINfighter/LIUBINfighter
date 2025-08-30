@@ -8,6 +8,7 @@
     <br>
     我要我的生命得到解放
   </samp>
+  
 </h2>
 
 Welcome old sport 👋
@@ -19,9 +20,15 @@ I am Jay Bridge,
 - A guitarist,
 - Exploring the intersection of design, code, music, artificial intelligence and personal knowledge management.
 
-I develop for fun and **otium**, build something I enjoy, and treating code as a companion in the spirit of Stoicism.
+I develop for fun and **otium**, build things I enjoy, and strive to treat code as my Stoic ally.
 
-![Dev Creed](https://img.shields.io/badge/Otium-Productive_Leisure_for_the_Mind-005f73?style=flat-square&logo=starship) 
+<!-- ![Dev Creed Otium](https://img.shields.io/badge/Otium-Productive_Leisure_for_the_Mind-005f73?style=flat-square&logo=headspace) -->
+
+
+![Otium](https://img.shields.io/badge/Otium-Productive_Leisure-005f73?style=flat-square&logo=octopusdeploy)
+![Ally](https://img.shields.io/badge/Ally-Order_Over_Chaos-4a4e69?style=flat-square&logo=starship)
+![Stoic](https://img.shields.io/badge/Stoic-Virtue_is_the_Good-512da8?style=flat-square&logo=headspace)
+ 
 
 <!--badge reference: shields.io-->
 
