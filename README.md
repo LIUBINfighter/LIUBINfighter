@@ -2,7 +2,7 @@
   <samp>Per aspera ad astra!</samp>
 </h1>
 
-## Welcome old sport 👋
+Welcome old sport 👋
 
 Hi, I am Jay Bridge, UG in SUSTech, an independent developer in Shenzhen, and a guitarist exploring the intersection of code, music, and personal knowledge management.
 
