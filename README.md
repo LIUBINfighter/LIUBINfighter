@@ -13,6 +13,8 @@ I am Jay Bridge,
 
 I develop for fun and **otium**, build something I enjoy, and treating code as a companion in the spirit of Stoicism.
 
+![Dev Creed](https://img.shields.io/badge/Otium-Productive_Leisure_for_the_Mind-005f73?style=flat-square&logo=starship) 
+
 ## Plugin Forge
 
 | Project                                                                 | Description                         | Status                |
@@ -62,11 +64,9 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 <h6 align="center">
 
-<!-- ![Dev Creed](https://img.shields.io/badge/Creed-PerAsperaAdAstra-005f73?style=flat-square&logo=starship) -->
-
 <br>
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </h6>
 
 
@@ -95,3 +95,6 @@ Here are some ideas to get you started:
 -->
 
 
+<h1 align="center">
+  <samp>Believe in the green light.</samp>
+</h1>
