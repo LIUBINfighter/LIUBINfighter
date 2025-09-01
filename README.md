@@ -28,7 +28,8 @@ I develop for fun and **otium**, build things I enjoy, and strive to treat code 
 ![Otium](https://img.shields.io/badge/Otium-Productive_Leisure-005f73?style=flat-square&logo=octopusdeploy)
 ![Ally](https://img.shields.io/badge/Ally-Order_Over_Chaos-4a4e69?style=flat-square&logo=starship)
 ![Stoic](https://img.shields.io/badge/Stoic-Virtue_is_the_Good-512da8?style=flat-square&logo=headspace)
- 
+
+
 
 <!--badge reference: shields.io-->
 
@@ -74,19 +75,24 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 ## Stats & Stack
 
-<h6 align="center">
-
-[![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)<br><br>[![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws)](https://skillicons.dev)
-</h6>
-
-<h6 align="center">
-
+<div align="center">
+  
+  [![wakatime](https://wakatime.com/badge/user/69c070ef-7618-4d28-8b55-31c66e9a3317.svg)](https://wakatime.com/@69c070ef-7618-4d28-8b55-31c66e9a3317)
 <br>
+  [![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)
+<br>
+  [![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws)](https://skillicons.dev)
+</dic>
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-</h6>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUBINfighter&layout=compact&theme=transparent"/><img src="https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=transparent"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=LIUBINfighter&bg_color=00000000&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
+<!--  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LIUBINfighter&theme=transparent&title_color=5acbe9&...&layout=compact" />  -->
+
+</div>
 
 <!--
 |  25.3-today    | |  Independent Developer  |
