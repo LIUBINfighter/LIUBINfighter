@@ -74,19 +74,17 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 - I document my journey and personal reflections [here](https://liubinfighter.github.io/Blog/).
 
 ## Stats & Stack
-
-<div align="center">
-  
   [![wakatime](https://wakatime.com/badge/user/69c070ef-7618-4d28-8b55-31c66e9a3317.svg)](https://wakatime.com/@69c070ef-7618-4d28-8b55-31c66e9a3317)
-<br>
-  [![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)
-<br>
-  [![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws)](https://skillicons.dev)
-</dic>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUBINfighter&layout=compact&theme=transparent"/><img src="https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=transparent"/>
+  <br>
+  
+  [![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)
+  <br>
+  
+  [![My Skills](https://skillicons.dev/icons?i=ts,go,js,html,css,vue,react,python,aws)](https://skillicons.dev)
+  <br>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=LIUBINfighter&bg_color=00000000&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
