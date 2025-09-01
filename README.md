@@ -78,6 +78,7 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUBINfighter&layout=compact&theme=transparent"/><img src="https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=transparent"/>
+
   <br>
   
   [![My Workspace](https://skillicons.dev/icons?i=obsidian,md,vscode,git,github,ubuntu,apple)](https://skillicons.dev)
