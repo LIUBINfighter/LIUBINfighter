@@ -75,7 +75,7 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 ## Blog
 
-- I document my journey and personal reflections [here](https://liubinfighter.github.io/Blog/).
+- I document my journey and personal reflections [here](https://liubinfighter.github.io/blog/).
 
 ## Stats & Stack
 
