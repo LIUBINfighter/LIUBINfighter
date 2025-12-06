@@ -73,9 +73,9 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 
 <div align="center">  
   
-<!--   [![wakatime](https://wakatime.com/badge/user/69c070ef-7618-4d28-8b55-31c66e9a3317.svg)](https://wakatime.com/@69c070ef-7618-4d28-8b55-31c66e9a3317)
+  [![wakatime](https://wakatime.com/badge/user/69c070ef-7618-4d28-8b55-31c66e9a3317.svg)](https://wakatime.com/@69c070ef-7618-4d28-8b55-31c66e9a3317)
   
-  <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUBINfighter&layout=compact&theme=transparent"/><img src="https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=transparent"/> </div>
+<!--   <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIUBINfighter&layout=compact&theme=transparent"/><img src="https://github-readme-stats.vercel.app/api?username=LIUBINfighter&show_icons=true&theme=transparent"/> </div>
   -->
   <br>
   
