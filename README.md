@@ -2,15 +2,6 @@
   <samp>Per aspera ad astra!</samp>
 </h1>
 
-<h3 align="center">
-  <samp>
-    如今我已不再感到迷茫
-    <br>
-    我要我的生命得到解放
-  </samp>
-  
-</h3>
-
 Welcome old sport 👋
 
 I am Jay Bridge,  
