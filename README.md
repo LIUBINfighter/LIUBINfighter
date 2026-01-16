@@ -2,16 +2,21 @@
   <samp>Per aspera ad astra!</samp>
 </h1>
 
-Welcome old sport 👋
+Welcome old sport👋 I am Jay Bridge.
 
+I play guitar and write guitar tabs in text using [Tabst](https://github.com/LIUBINfighter/Tabst.app).
+
+<!--
 I am Jay Bridge,  
 - An undergraduate at SUSTech,
 - An independent developer in Shenzhen,
-- An Obsidian user, <!-- https://forum-zh.obsidian.md/u/jaybridge/summary https://forum.obsidian.md/u/jaybridge/summary-->
+- An Obsidian user, 
 - A guitarist,
 - Exploring the intersection of design, code, music, artificial intelligence and personal knowledge management.
+-->
+<!-- https://forum-zh.obsidian.md/u/jaybridge/summary https://forum.obsidian.md/u/jaybridge/summary-->
 
-I develop for fun and **otium**, build things I enjoy, and strive to treat code as my Stoic ally.
+I develop for fun and **otium**, build things I enjoy, and strive to treat code as my ally.
 
 <!-- ![Dev Creed Otium](https://img.shields.io/badge/Otium-Productive_Leisure_for_the_Mind-005f73?style=flat-square&logo=headspace) -->
 
