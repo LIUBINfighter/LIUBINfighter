@@ -29,6 +29,13 @@ I develop for fun and **otium**, build things I enjoy, and strive to treat code 
 
 <!--badge reference: shields.io-->
 
+## Guitarist's Pride
+
+| Project                                                                 | Description                         | Status                |
+|-------------------------------------------------------------------------|-------------------------------------|-----------------------|
+| [Tabst](https://github.com/LIUBINfighter/Tabst.app) | A desktop app for writing and playing guitar tabs. | ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Tabst.app) |
+
+
 ## Plugin Forge
 <div align="center">
   
