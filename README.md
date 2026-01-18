@@ -31,10 +31,13 @@ I develop for fun and **otium**, build things I enjoy, and strive to treat code 
 
 ## Guitarist's Pride
 
+<div align="center">
+
 | Project                                                                 | Description                         | Status                |
 |-------------------------------------------------------------------------|-------------------------------------|-----------------------|
 | [Tabst](https://github.com/LIUBINfighter/Tabst.app) | A desktop app for writing and playing guitar tabs. | ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Tabst.app) |
 
+</div>
 
 ## Plugin Forge
 <div align="center">
