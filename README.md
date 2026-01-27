@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">
+<!--<h3 align="center">
   <samp>
     全てを賭けて描く
     <br>
@@ -147,7 +147,7 @@ Here are some ideas to get you started:
     <br>
     もう今はあの日の透明な僕じゃない
   </samp>
-</h4>
+</h4>-->
 
 <h1 align="center">
   <samp>Believe in the green light.</samp>
