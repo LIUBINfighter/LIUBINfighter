@@ -6,7 +6,7 @@ Welcome old sport👋 I am Jay Bridge.
 
 I play guitar and write guitar tabs in text using [Tabst](https://github.com/LIUBINfighter/Tabst.app).
 
-作品留给世界，伤痛留给自己。
+作品留给世界，记忆留给自己。
 
 <!--
 I am Jay Bridge,  
@@ -37,7 +37,7 @@ I am Jay Bridge,
 
 | Project                                                                 | Description                         | Status                |
 |-------------------------------------------------------------------------|-------------------------------------|-----------------------|
-| [Tabst](https://github.com/LIUBINfighter/Tabst.app) | A desktop app for writing and playing guitar tabs. | ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Tabst.app) |
+| [Tabst](https://github.com/LIUBINfighter/Tabst.app) | A desktop app for writing and playing guitar tabs. | ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Tabst.app) ![Downloads (Total)](https://img.shields.io/github/downloads/LIUBINfighter/Tabst.app/total) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Tabst.app) |
 
 </div>
 
