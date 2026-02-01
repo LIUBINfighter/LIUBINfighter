@@ -37,7 +37,7 @@ I am Jay Bridge,
 
 | Project                                                                 | Description                         | Status                |
 |-------------------------------------------------------------------------|-------------------------------------|-----------------------|
-| [Tabst](https://github.com/LIUBINfighter/Tabst.app) | A desktop app for writing and playing guitar tabs. | ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Tabst.app) <br> ![Downloads (Total)](https://img.shields.io/github/downloads/LIUBINfighter/Tabst.app/total) <br> ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Tabst.app) |
+| [Tabst](https://github.com/LIUBINfighter/Tabst.app) | A desktop app for writing and playing guitar tabs. | [![DOI](https://zenodo.org/badge/1133258569.svg)](https://doi.org/10.5281/zenodo.18447447) <br> ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Tabst.app) <br> ![Downloads (Total)](https://img.shields.io/github/downloads/LIUBINfighter/Tabst.app/total) <br> ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Tabst.app) |
 
 </div>
 
