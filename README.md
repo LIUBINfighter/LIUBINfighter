@@ -4,7 +4,8 @@
 
 Welcome old sport👋 I am Jay Bridge.
 
-I play guitar and write guitar tabs in text using [Tabst](https://github.com/LIUBINfighter/Tabst.app).
+- I play guitar and write guitar tabs in text using [Tabst](https://github.com/LIUBINfighter/Tabst.app).
+- I document my journey and personal reflections [here](https://liubinfighter.github.io/blog/).
 
 <!--
 I am Jay Bridge,  
@@ -48,10 +49,12 @@ I am Jay Bridge,
 | [CSV-lite](https://github.com/LIUBINfighter/csv-lite)                   | Edit csv in Obsidian                     | [![DOI](https://zenodo.org/badge/953422745.svg)](https://doi.org/10.5281/zenodo.18447042) <br> ![Release](https://img.shields.io/github/v/release/LIUBINfighter/csv-lite) <br> ![Obsidian Download](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=Downloads&query=$%5B%22csv-lite%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json) <!-- ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/csv-lite) --> ![Stars](https://img.shields.io/github/stars/LIUBINfighter/csv-lite) |
 
 <!--
-| [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Paused <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Github-Projects)--> <br> <!-- ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects)--> |
+| [Github-Projects](https://github.com/LIUBINfighter/Github-Projects)     | Issue Tracker & Project Manager     | Paused   ![Release](https://img.shields.io/github/v/release/LIUBINfighter/Github-Projects) <br>  ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/Github-Projects) ![Stars](https://img.shields.io/github/stars/LIUBINfighter/Github-Projects) |
+-->
 
 <!--
-| [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintained <!--  ![Release](https://img.shields.io/github/v/release/LIUBINfighter/obsidian-dev-docs-zh)--> <br> <!--  ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh)   ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh)--> |
+| [obsidian-dev-docs-zh](https://github.com/LIUBINfighter/obsidian-dev-docs-zh) | Community Docs for developers       | Maintained   ![Release](https://img.shields.io/github/v/release/LIUBINfighter/obsidian-dev-docs-zh) <br>   ![Last Commit](https://img.shields.io/github/last-commit/LIUBINfighter/obsidian-dev-docs-zh)   ![Stars](https://img.shields.io/github/stars/LIUBINfighter/obsidian-dev-docs-zh) |
+-->
 
 </div>
 
@@ -85,12 +88,7 @@ Feel free to stop by [here](https://liubinfighter.github.io/Blog/) and have a lo
 **Believe in the green light.**
 -->
 
-## Blog
-
-- I document my journey and personal reflections [here](https://liubinfighter.github.io/blog/).
-
 ## Stats & Stack
-
 
 <div align="center">  
   
