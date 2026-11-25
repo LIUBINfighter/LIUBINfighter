@@ -1,3 +1,7 @@
+
+<img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/03e89fa7-46c4-46d5-afa6-88618839ecfa" />
+
+
 I play guitar and write guitar tabs in text using [Tabst](https://github.com/LIUBINfighter/Tabst.app).
 
 I’m building a text-centered infrastructure around alphaTex for guitar notation, data processing, benchmarking, and future multimodal music models.
