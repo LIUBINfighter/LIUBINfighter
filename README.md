@@ -1,6 +1,9 @@
 
-<img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/03e89fa7-46c4-46d5-afa6-88618839ecfa" />
 
+
+<img width="96" height="96" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/03e89fa7-46c4-46d5-afa6-88618839ecfa" />
+
+Hi old sports, I am Jay Bridge.
 
 I play guitar and write guitar tabs in text using [Tabst](https://github.com/LIUBINfighter/Tabst.app).
 
@@ -11,3 +14,9 @@ I’m building a text-centered infrastructure around alphaTex for guitar notatio
 构建以文本（alphaTex）为中心的吉他谱书写方式，数据处理，质量标准和未来的多模态音乐模型。
 
 <!-- I document my journey and personal reflections [here](https://liubinfighter.github.io/blog/).-->
+
+<img width="234" height="61" alt="image" src="https://github.com/user-attachments/assets/799c56d5-bb95-4fde-b4eb-9f80fc274b0e" />
+
+I'm the founder of OTIUM WORKS, an independent creative studio.
+
+我创办了 OTIUM WORKS 工作室。
